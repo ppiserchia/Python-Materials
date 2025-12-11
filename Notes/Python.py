@@ -28,6 +28,18 @@ print(mul)
 div = 12/4
 print(div)
 
+# We can also make arithemetic operations consequently. 
+
+ab = 5
+ab += 3 
+ab += 4
+print (ab)
+
+bc = 10
+bc -= 2
+bc -= 3
+print(bc)
+
 # We can also check the type of item we're typing, by using the type() function.
 name5 = 'Hello'
 age = 15
@@ -96,3 +108,4 @@ print(verb_Auxiliar)
 chemical_Components = [["Hydrogen", "O"], ["Carbon", "C"], ["Nitrogen", "N"], ["Oxygen", "O"]]
 frog_withD = chemical_Components[0][0][2:6] # Here I indexed the first list, then the first item, and selected the words in the range from 2 to 6.
 print(frog_withD)
+
