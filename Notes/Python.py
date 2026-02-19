@@ -109,3 +109,4 @@ chemical_Components = [["Hydrogen", "O"], ["Carbon", "C"], ["Nitrogen", "N"], ["
 frog_withD = chemical_Components[0][0][2:6] # Here I indexed the first list, then the first item, and selected the words in the range from 2 to 6.
 print(frog_withD)
 
+#
