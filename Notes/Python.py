@@ -109,4 +109,10 @@ chemical_Components = [["Hydrogen", "O"], ["Carbon", "C"], ["Nitrogen", "N"], ["
 frog_withD = chemical_Components[0][0][2:6] # Here I indexed the first list, then the first item, and selected the words in the range from 2 to 6.
 print(frog_withD)
 
-#
+# Functions: max(), round(), type()
+# Functions are pieces of code that allow you to do specific tasks. They can take inputs, called arguments, and return outputs.
+
+# Max() function returns the largest item in an iterable or the largest of two or more arguments.
+nums = [3, 9, 23, 56, 81]
+largest_number = max(nums) # this will show the largest number in the list, which is 81.
+print(largest_number)   
