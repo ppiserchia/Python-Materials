@@ -116,3 +116,23 @@ print(frog_withD)
 nums = [3, 9, 23, 56, 81]
 largest_number = max(nums) # this will show the largest number in the list, which is 81.
 print(largest_number)   
+
+# Help() function is used to get information about a specific function or module in Python.
+# help(max) # This will show the documentation of the max() function, which explains how to use it.
+
+# Type() function is used to get the type of an object in Python.
+print(type(nums)) # This will show that the variable nums is a list.
+
+# Methods are functions that are associated with a specific type of item, such as a string or a list. They usually come with a dot after the item.
+ages = [21, 16, 56, 56, 25, 85, 76, 89]
+ages.count(56) # This will count how many times the integer 56 appears in the list ages, which is 2 times.
+print(ages.count(56))
+
+ages.append(44) # .append() is used to add an item to the end of the list.
+print(ages)
+
+ages.remove(25) # .remove() is used to remove an item from the list.
+print(ages)
+
+ages.reverse() # .reverse() is used to reverse the order of the items in the list.
+print(ages)
