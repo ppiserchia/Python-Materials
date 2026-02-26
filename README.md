@@ -9,7 +9,7 @@ I learnt and am continuing to learn SwiftUI and the Apple ecosystem, with its fr
 ## 💻 Tech 
 I am currently using **Python** as the main language.
 
-In order to take notes of every argument I am learning, I am writing them in a **Jupyter Notebook** and taking also notes in a .py file.
+In order to take notes of every argument I am learning, I am writing them in a **Jupyter Notebook** and taking also notes in a .py file, for every framework I am learning.
 
 ## 🤖 Frameworks
 * **math**: A framework used to provide access to common mathematical functions.
